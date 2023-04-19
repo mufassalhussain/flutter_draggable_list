@@ -1,0 +1,17 @@
+# Flutter/Dart specific files
+.dart_tool/
+.idea/
+.vscode/
+.packages
+.pub/
+build/
+ios/Pods/
+*.iml
+*.lock
+*.log
+*.xcodeproj/
+*.xcworkspace/
+
+# Ignore all files under this directory
+**/generated/
+
